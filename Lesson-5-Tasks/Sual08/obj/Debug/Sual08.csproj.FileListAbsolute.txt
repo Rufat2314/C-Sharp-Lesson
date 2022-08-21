@@ -1,0 +1,7 @@
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\bin\Debug\Sual08.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\bin\Debug\Sual08.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\bin\Debug\Sual08.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\obj\Debug\Sual08.csproj.AssemblyReference.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\obj\Debug\Sual08.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\obj\Debug\Sual08.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual08\obj\Debug\Sual08.pdb

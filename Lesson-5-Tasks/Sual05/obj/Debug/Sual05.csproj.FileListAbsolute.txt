@@ -1,0 +1,7 @@
+C:\Users\rufat\source\repos\Ders05\Sual05\bin\Debug\Sual05.exe.config
+C:\Users\rufat\source\repos\Ders05\Sual05\bin\Debug\Sual05.exe
+C:\Users\rufat\source\repos\Ders05\Sual05\bin\Debug\Sual05.pdb
+C:\Users\rufat\source\repos\Ders05\Sual05\obj\Debug\Sual05.csproj.AssemblyReference.cache
+C:\Users\rufat\source\repos\Ders05\Sual05\obj\Debug\Sual05.csproj.CoreCompileInputs.cache
+C:\Users\rufat\source\repos\Ders05\Sual05\obj\Debug\Sual05.exe
+C:\Users\rufat\source\repos\Ders05\Sual05\obj\Debug\Sual05.pdb

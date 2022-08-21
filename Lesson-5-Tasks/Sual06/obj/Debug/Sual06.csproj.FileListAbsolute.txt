@@ -1,0 +1,14 @@
+C:\Users\rufat\source\repos\Ders05\Sual06\bin\Debug\Sual06.exe.config
+C:\Users\rufat\source\repos\Ders05\Sual06\bin\Debug\Sual06.exe
+C:\Users\rufat\source\repos\Ders05\Sual06\bin\Debug\Sual06.pdb
+C:\Users\rufat\source\repos\Ders05\Sual06\obj\Debug\Sual06.csproj.AssemblyReference.cache
+C:\Users\rufat\source\repos\Ders05\Sual06\obj\Debug\Sual06.csproj.CoreCompileInputs.cache
+C:\Users\rufat\source\repos\Ders05\Sual06\obj\Debug\Sual06.exe
+C:\Users\rufat\source\repos\Ders05\Sual06\obj\Debug\Sual06.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\bin\Debug\Sual06.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\bin\Debug\Sual06.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\bin\Debug\Sual06.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\obj\Debug\Sual06.csproj.AssemblyReference.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\obj\Debug\Sual06.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\obj\Debug\Sual06.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Ders05\Sual06\obj\Debug\Sual06.pdb
