@@ -1,0 +1,6 @@
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\bin\Debug\Sual17.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\bin\Debug\Sual17.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\bin\Debug\Sual17.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\obj\Debug\Sual17.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\obj\Debug\Sual17.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual17\obj\Debug\Sual17.pdb

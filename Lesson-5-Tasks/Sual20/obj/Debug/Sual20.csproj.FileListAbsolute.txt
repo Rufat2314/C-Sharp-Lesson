@@ -1,0 +1,7 @@
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\bin\Debug\Sual20.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\bin\Debug\Sual20.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\bin\Debug\Sual20.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\obj\Debug\Sual20.csproj.AssemblyReference.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\obj\Debug\Sual20.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\obj\Debug\Sual20.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual20\obj\Debug\Sual20.pdb

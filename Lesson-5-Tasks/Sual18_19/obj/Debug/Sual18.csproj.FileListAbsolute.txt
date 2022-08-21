@@ -1,0 +1,12 @@
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\bin\Debug\Sual18.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\bin\Debug\Sual18.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\bin\Debug\Sual18.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\obj\Debug\Sual18.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\obj\Debug\Sual18.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18\obj\Debug\Sual18.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\bin\Debug\Sual18.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\bin\Debug\Sual18.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\bin\Debug\Sual18.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\obj\Debug\Sual18.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\obj\Debug\Sual18.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Sual18_19\obj\Debug\Sual18.pdb
