@@ -30,7 +30,7 @@ namespace Elave
 
 
 
-            // Find Min and Max elementlerin tapilmasi
+            // Find Min and Max elements
 
             int r = arr[0];  // 2 4 6 8 10
 

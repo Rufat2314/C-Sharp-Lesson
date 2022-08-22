@@ -1,7 +1,0 @@
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\bin\Debug\Elave.exe.config
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\bin\Debug\Elave.exe
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\bin\Debug\Elave.pdb
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\obj\Debug\Elave.csproj.AssemblyReference.cache
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\obj\Debug\Elave.csproj.CoreCompileInputs.cache
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\obj\Debug\Elave.exe
-D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-5-Tasks\Elave\obj\Debug\Elave.pdb
