@@ -1,0 +1,7 @@
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\bin\Debug\Sual2.exe.config
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\bin\Debug\Sual2.exe
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\bin\Debug\Sual2.pdb
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\obj\Debug\Sual2.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\obj\Debug\Sual2.exe
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\obj\Debug\Sual2.pdb
+D:\Windows 7 den qalma\Dersler\2ci kurs 2021-2022\Semestr 2\C#\C# Discord\Ders04\Sual2\obj\Debug\Sual2.csproj.AssemblyReference.cache
