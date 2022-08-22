@@ -10,7 +10,7 @@ namespace Sual1
     {
         static void Main(string[] args)
         {
-            object obj = "24";
+            object obj = "25";
 
             int number = Convert.ToInt32(obj);
 
