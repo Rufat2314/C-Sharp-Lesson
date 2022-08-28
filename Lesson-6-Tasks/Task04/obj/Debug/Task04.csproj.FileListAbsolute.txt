@@ -1,0 +1,7 @@
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\bin\Debug\Task04.exe.config
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\bin\Debug\Task04.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\bin\Debug\Task04.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\obj\Debug\Task04.csproj.CoreCompileInputs.cache
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\obj\Debug\Task04.exe
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\obj\Debug\Task04.pdb
+D:\Windows 7 den qalma\Dersler\#Discord dersler\C#\Lesson-6-Tasks\Lesson-6-Tasks\Task04\obj\Debug\Task04.csproj.AssemblyReference.cache
